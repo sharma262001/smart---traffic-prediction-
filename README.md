@@ -1,3 +1,5 @@
+https://rw48ghv4vuzuhxyjr7wdvw.streamlit.app
+
 # Smart Traffic Prediction
 
 Smart Traffic Prediction is a machine learning project that estimates vehicle volume and congestion level using time, weather, and date-based traffic patterns. It combines data preprocessing, model training, feature analysis, and a Streamlit dashboard to make traffic insights easy to understand and use.
