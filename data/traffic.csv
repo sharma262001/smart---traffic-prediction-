@@ -1,0 +1,17 @@
+Date,Time,Day,Weather,Temperature,Vehicle_Count,Average_Speed,Congestion
+2026-01-01,08:00,Thursday,Clear,18,850,52,Low
+2026-01-01,09:00,Thursday,Clear,19,1200,45,Medium
+2026-01-01,10:00,Thursday,Clear,20,950,50,Low
+2026-01-01,13:00,Thursday,Clear,23,1100,47,Medium
+2026-01-01,17:00,Thursday,Clear,22,1800,35,Medium
+2026-01-01,18:00,Thursday,Clear,21,2500,25,High
+2026-01-01,19:00,Thursday,Rain,20,2800,20,High
+2026-01-01,20:00,Thursday,Rain,19,2100,28,High
+2026-01-02,08:00,Friday,Clear,18,900,50,Low
+2026-01-02,09:00,Friday,Clear,19,1400,42,Medium
+2026-01-02,10:00,Friday,Clear,21,1000,48,Low
+2026-01-02,13:00,Friday,Clear,24,1250,44,Medium
+2026-01-02,17:00,Friday,Cloudy,23,1900,33,Medium
+2026-01-02,18:00,Friday,Rain,21,2700,22,High
+2026-01-02,19:00,Friday,Rain,20,3000,18,High
+2026-01-02,20:00,Friday,Rain,19,2300,26,High
