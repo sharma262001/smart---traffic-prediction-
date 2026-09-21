@@ -1,4 +1,4 @@
-https://rw48ghv4vuzuhxyjr7wdvw.streamlit.app
+https://akshaysharma-smart-traffic-prediction.streamlit.app
 
 # Smart Traffic Prediction
 
